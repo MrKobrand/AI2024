@@ -1,0 +1,7 @@
+version: '3.8'
+
+services:
+  patent-analysis:
+    build:
+      context: .
+      dockerfile: Dockerfile
