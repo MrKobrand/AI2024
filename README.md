@@ -34,3 +34,9 @@ pytest ./tests/test_data.py
 ```bash
 pytest ./tests
 ```
+
+## Запуск сервера
+Выполните следующую команду:
+```bash
+python server.py
+```
